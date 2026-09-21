@@ -55,7 +55,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Interval
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) *(LeetCode Premium)*
